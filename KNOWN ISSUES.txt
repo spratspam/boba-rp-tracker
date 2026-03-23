@@ -1,0 +1,13 @@
+KNOWN ISSUES – Boba RP Tracker v1.0.1
+
+• Windows taskbar icon may show a default feather icon instead of the boba icon
+This is a Windows caching issue and does not affect functionality
+
+• Emoji/text alignment may look slightly off depending on system font/display settings
+
+• App is not digitally signed, so Windows may show a warning on first launch
+Click "More info" → "Run anyway"
+
+---
+
+If you run into bugs or weird behavior, feel free to report them 💚
