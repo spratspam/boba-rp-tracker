@@ -20,6 +20,19 @@ General fixes and improvements
 Double click Boba RP Tracker.exe to launch
 Create RPs and add replies
 Everything saves automatically
+
+💾 Install (Recommended)
+Go to the Releases section
+
+Download:
+
+Boba_RP_Tracker_v1.0.1_Setup.exe
+Double-click the file
+Follow the install steps
+Launch from:
+Start Menu, or
+Desktop shortcut (if selected)
+
 ⚠️ Important
 Keep the .exe in the same folder
 Do not move or delete files the app creates (like data files)
