@@ -2,6 +2,11 @@ Boba RP Tracker ☕
 
 Version 1.0.1
 
+## 📥 Download
+
+Download the latest version here:
+👉 https://github.com/spratspam/boba-rp-tracker/releases
+
 Hi!
 
 This is a small desktop app for tracking RP threads, replies, and notes.
